@@ -63,6 +63,10 @@
 #endif
 #endif
 
+#include <algorithm>
+#include <cmath>
+#include <xtgmath.h>
+
 //FFmpeg
 extern "C"
 {
